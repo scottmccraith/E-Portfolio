@@ -85,8 +85,12 @@ li {
 }
 
 
+.text--purple {
+    color: purple;
+}
+
 .text--yellow {
-    color: #6030b1;
+    color: yellow;
 }
 
 section:nth-child(even){
